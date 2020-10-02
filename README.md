@@ -1,5 +1,5 @@
 # Art Generator
-Generate a synthesised image from a Content Image and Style Image
+Compose images in the style of another image.
 
 Set the hyperparameters as per your choice
 
